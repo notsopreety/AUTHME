@@ -35,4 +35,5 @@ if [ "$INPUT_PASSWORD" != "$AUTH_PASSWORD" ]; then
 else
     echo -e "\n${GREEN}Access Granted. Welcome, Samir!${NC}"
     sleep 1
+    clear
 fi
