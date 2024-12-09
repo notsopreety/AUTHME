@@ -98,7 +98,7 @@
       ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝
                             - By Samir Thakuri
 
-   Verify it's you and enter your password
+   Verify that you're really my master.
    Enter Password:
    ```
 
