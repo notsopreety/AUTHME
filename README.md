@@ -68,6 +68,7 @@
    else
        echo -e "\n${GREEN}Access Granted. Welcome, Samir!${NC}"
        sleep 1
+       clear
    fi
    ```
 
